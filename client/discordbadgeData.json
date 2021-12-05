@@ -1,0 +1,14 @@
+{
+// Example:
+//    "Discord User ID" : {
+//        "tag": "discorduser#0000",
+//        "badges": [
+//            "comp",
+//            "dev",
+//            "verified",
+ //           "content-creators",
+//            "gfx",
+//            "vip"
+//        ]
+//    }
+}
